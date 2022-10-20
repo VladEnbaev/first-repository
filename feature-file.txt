@@ -1,1 +1,1 @@
-feature text file
+Feature text file
